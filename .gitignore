@@ -1,0 +1,6 @@
+# 运行时产物，不上传
+scripts/growth.log
+scripts/growth_state.json
+scripts/.growth_auto.pid
+__pycache__/
+*.pyc
